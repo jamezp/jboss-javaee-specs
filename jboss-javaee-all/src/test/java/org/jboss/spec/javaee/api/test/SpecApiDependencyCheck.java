@@ -146,7 +146,7 @@ import javax.xml.ws.wsaddressing.*;
 /**
  * This class checks the dependencies as exported by the
  * "spec-api" module to ensure that compilation of all Java EE
- * 7 Specification Platform APIs are reachable.  As such, no runtime
+ * 8 Specification Platform APIs are reachable.  As such, no runtime
  * assertions are required here, only references.  If this class compiles, 
  * all noted references are reachable within the spec-api dependency chain. 
  * 
